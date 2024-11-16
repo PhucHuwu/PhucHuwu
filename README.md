@@ -3,3 +3,6 @@
 #### **Education**
 ##### **Posts and Telecommunications Institute of Technology (Ha Noi)**  
 ###### *2022 - Present*
+##### Information Technology
+##### **Achievement**
+##### Direct admission with full scholarship for first year
