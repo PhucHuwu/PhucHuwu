@@ -1,8 +1,6 @@
-### CONTACT INFO
-<a href="https://samujjwaal.me/"><img src="" align="right" height="300" /></a>
-**Hoang Liet, Hoang Mai, Ha Noi, Vietnam**  
-(+84) 368 334 223  
-phuctranhuu37@gmail.com  
+<a href="https://samujjwaal.me/">
+    <img src="https://github.com/PhucHuwu/PhucHuwu/blob/main/PhucHuwu.jpg" align="left" height="380" />
+</a>
 
 ### EDUCATION
 **Posts and Telecommunications Institute of Technology (Ha Noi)**  
@@ -16,3 +14,13 @@ phuctranhuu37@gmail.com
 **Achievement**  
 - Third prize in The International Science and Engineering Fair (ISEF) competition at national level, field of Embedded Systems and AI  
 *2020 - 2021*  
+
+<div style="margin-left: 40px;">
+    Thụt lề bằng HTML div với khoảng cách 40px
+</div>
+
+### CONTACT INFO
+
+**Hoang Liet, Hoang Mai, Ha Noi, Vietnam**  
+(+84) 368 334 223  
+phuctranhuu37@gmail.com  
