@@ -1,7 +1,7 @@
 ## Hi there, I'm [Phuc Huwu](https://github.com/PhucHuwu/)
 
 <a href="https://github.com/PhucHuwu/">
-    <img src="https://github.com/PhucHuwu/PhucHuwu/blob/main/PhucHuwu.jpg" align="right" height="440" />
+    <img src="https://github.com/PhucHuwu/PhucHuwu/blob/main/PhucHuwu.jpg" align="right" height="420" />
 </a>
 
 ### CONTACT INFO
