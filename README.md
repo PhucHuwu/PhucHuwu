@@ -11,5 +11,3 @@
 ##### **Achievement**
 ###### Third prize in The International Science and Engineering Fair (ISEF) competition at national level, field of Embedded Systems and AI
 ###### *2020 - 2021*
-###### Second prize in Creative contest for teenagers and children in Tuyen Quang province
-###### *2021*
