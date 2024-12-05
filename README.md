@@ -1,26 +1,34 @@
-## ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Hi there, I'm [Phuc huwu](https://github.com/users/follow?target=PhucHuwu)
+## ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Hi there, I'm [Phuc Huwu](#contact-info)
 
-<a href="https://github.com/users/follow?target=PhucHuwu"> 
-    <img src="https://github.com/PhucHuwu/PhucHuwu/blob/main/PhucHuwu.jpg" align="right" height="420" />
+<a href="#contact-info"> 
+    <img src="https://github.com/PhucHuwu/PhucHuwu/blob/main/PhucHuwu.jpg" align="right" height="420" alt="Phuc Huwu's image" />
 </a>
 
-### CONTACT INFO
+---
 
-**Hoang Liet, Hoang Mai, Ha Noi, Vietnam**  
-(+84) 368 334 223  
-phuctranhuu37@gmail.com  
+### 📫 CONTACT INFO
 
-##
-### EDUCATION
+**🏠 Location:** Hoang Liet, Hoang Mai, Ha Noi, Vietnam  
+**📞 Phone:** (+84) 368 334 223  
+**📧 Email:** [phuctranhuu37@gmail.com](mailto:phuctranhuu37@gmail.com)  
 
-**Posts and Telecommunications Institute of Technology (Ha Noi)**  
+---
+
+### 🎓 EDUCATION
+
+**Posts and Telecommunications Institute of Technology (Hanoi)**  
 *2022 - Present*  
-*Information Technology*  
-**Achievement**  
-- Direct admission with full scholarship for first year  
-##
+*Major:* Information Technology  
+
+**📌 Achievements:**  
+- Direct admission with a full scholarship for the first year  
+
+---
+
 **Thai Hoa High School**  
 *2019 - 2022*  
-**Achievement**  
-- Third prize in The International Science and Engineering Fair (ISEF) competition at national level, field of Embedded Systems and AI  
-*2020 - 2021*
+
+**📌 Achievements:**  
+- Third prize in The International Science and Engineering Fair (ISEF) competition at the national level, field of Embedded Systems and AI (*2020 - 2021*)
+
+---
