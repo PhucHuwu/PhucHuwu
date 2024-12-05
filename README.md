@@ -4,8 +4,6 @@
     <img src="https://github.com/PhucHuwu/PhucHuwu/blob/main/PhucHuwu.jpg" align="right" height="420" alt="Phuc Huwu's image" />
 </a>
 
----
-
 ### 📫 CONTACT INFO
 
 **🏠 Location:** Hoang Liet, Hoang Mai, Ha Noi, Vietnam  
