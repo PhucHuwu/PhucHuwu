@@ -1,6 +1,6 @@
-## ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Hi there, I'm [Phuc huwu](https://github.com/PhucHuwu/)
+## ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Hi there, I'm [Phuc huwu](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2FPhucHuwu)
 
-<a href="https://github.com/PhucHuwu/">
+<a href="https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2FPhucHuwu"> 
     <img src="https://github.com/PhucHuwu/PhucHuwu/blob/main/PhucHuwu.jpg" align="right" height="420" />
 </a>
 
