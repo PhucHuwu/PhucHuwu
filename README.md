@@ -1,7 +1,7 @@
 ## ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Hi there, I'm [Phuc Huwu](https://github.com/PhucHuwu)
 
 <a href="https://github.com/PhucHuwu"> 
-    <img src="https://github.com/PhucHuwu/PhucHuwu/blob/main/PhucHuwu.jpg" align="right" height="420" alt="Phuc Huwu's image" />
+    <img src="https://github.com/PhucHuwu/PhucHuwu/blob/main/PhucHuwuSmaller.png" align="right" height="420" alt="Phuc Huwu's image" />
 </a>
 
 ---
