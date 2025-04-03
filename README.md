@@ -4,6 +4,8 @@
     <img src="https://github.com/PhucHuwu/PhucHuwu/blob/main/PhucHuwuSmaller.png" align="right" height="420" alt="Phuc Huwu's image" />
 </a>
 
+I am a CV (Computer Vision) enthusiast from Vietnam, driven by a passion for creative problem-solving and research. I love exploring new algorithms, tackling complex challenges, and finding innovative solutions through AI and deep learning. Always eager to learn and collaborate! 📝
+
 ---
 
 ### 📫 CONTACT INFO
@@ -31,4 +33,5 @@
 **📌 Achievements:**  
 - Third prize in The International Science and Engineering Fair (ISEF) competition at the national level, field of Embedded Systems and AI (*2020 - 2021*)
 
+![Visitor Count](https://komarev.com/ghpvc/?username=PhucHuwu&color=blue&style=flat)
 ---
