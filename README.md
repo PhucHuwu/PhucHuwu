@@ -1,37 +1,66 @@
-## ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Hi there, I'm [Phuc Huwu](https://github.com/PhucHuwu)
+# Phuc Huwu
 
-<a href="https://github.com/PhucHuwu"> 
-    <img src="https://github.com/PhucHuwu/PhucHuwu/blob/main/PhucHuwuSmaller.png" align="right" height="420" alt="Phuc Huwu's image" />
-</a>
-
-I am a CV (Computer Vision) enthusiast from Vietnam, driven by a passion for creative problem-solving and research. I love exploring new algorithms, tackling complex challenges, and finding innovative solutions through AI and deep learning. Always eager to learn and collaborate! 📝
+**Computer Vision Engineer & AI Researcher**
 
 ---
 
-### 📫 CONTACT INFO
+## About Me
 
-**🏠 Location:** Hoang Liet, Hoang Mai, Ha Noi, Vietnam  
-**📞 Phone:** (+84) 368 334 223  
-**📧 Email:** [phuctranhuu37@gmail.com](mailto:phuctranhuu37@gmail.com)  
+I am a Computer Vision specialist and AI researcher from Vietnam, currently pursuing a Bachelor's degree in Information Technology at the Posts and Telecommunications Institute of Technology. My expertise lies in developing innovative solutions through artificial intelligence, deep learning, and computer vision technologies.
 
----
+With a strong foundation in both theoretical knowledge and practical implementation, I am passionate about pushing the boundaries of what's possible in computer vision and artificial intelligence. My research interests span across advanced algorithms, neural networks, and their real-world applications.
 
-### 🎓 EDUCATION
+## Professional Focus
 
-**Posts and Telecommunications Institute of Technology (Hanoi)**  
-*2022 - Present*  
-*Major:* Information Technology  
+- **Computer Vision**: Advanced image processing, object detection, and visual recognition systems
+- **Artificial Intelligence**: Machine learning algorithms and intelligent system design
+- **Deep Learning**: Neural network architectures and optimization techniques
+- **Embedded Systems**: Hardware-software integration for AI applications
+- **Research & Development**: Innovation in emerging AI technologies
 
-**📌 Achievements:**  
-- Direct admission with a full scholarship for the first year  
+## Technical Expertise
 
----
+### Core Technologies
+- Computer Vision & Image Processing
+- Deep Learning Frameworks
+- Machine Learning Algorithms
+- Neural Network Architectures
+- Large Language Models
+
+### Research Areas
+- Computer Vision Applications
+- AI Algorithm Optimization
+- Real-time Processing Systems
+- Intelligent Automation
+
+## Academic Background
+
+**Posts and Telecommunications Institute of Technology, Hanoi**  
+*Bachelor of Information Technology* | 2022 - Present  
+- **Achievement**: Direct admission with full scholarship for the first year
+- **Focus**: Computer Vision, AI, and Deep Learning
 
 **Thai Hoa High School**  
-*2019 - 2022*  
+*High School Diploma* | 2019 - 2022  
+- **Achievement**: Third Prize, International Science and Engineering Fair (ISEF)
+- **Category**: Embedded Systems and AI (National Level Competition, 2020-2021)
 
-**📌 Achievements:**  
-- Third prize in The International Science and Engineering Fair (ISEF) competition at the national level, field of Embedded Systems and AI (*2020 - 2021*)
+## Professional Commitment
 
-![Visitor Count](https://komarev.com/ghpvc/?username=PhucHuwu&color=blue&style=flat)
+I am dedicated to advancing the field of computer vision through rigorous research, innovative problem-solving, and the development of practical AI solutions. My approach combines academic excellence with real-world application, ensuring that theoretical knowledge translates into meaningful technological contributions.
+
+## Contact Information
+
+**📧 Email**: [phuctranhuu37@gmail.com](mailto:phuctranhuu37@gmail.com)  
+**📞 Phone**: (+84) 368 334 223  
+**🏠 Location**: Hoang Liet, Hoang Mai, Ha Noi, Vietnam  
+
 ---
+
+## GitHub Statistics
+
+![Profile Views](https://komarev.com/ghpvc/?username=PhucHuwu&color=blue&style=flat-square)
+
+---
+
+*"Innovation in AI and Computer Vision through dedicated research and practical implementation."*
