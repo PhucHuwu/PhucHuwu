@@ -15,7 +15,6 @@ With a strong foundation in both theoretical knowledge and practical implementat
 - **Computer Vision**: Advanced image processing, object detection, and visual recognition systems
 - **Artificial Intelligence**: Machine learning algorithms and intelligent system design
 - **Deep Learning**: Neural network architectures and optimization techniques
-- **Embedded Systems**: Hardware-software integration for AI applications
 - **Research & Development**: Innovation in emerging AI technologies
 
 ## Technical Expertise
