@@ -1,8 +1,5 @@
-# Phuc Huwu
-
-**AI Researcher | Computer Vision & Large Language Model Engineer | Automation Enthusiast**
-
----
+<h3 align="center">Hi! My name's</h3>
+<h1 align="center">Phuc Huwu</h1>
 
 ## 👨‍💻 About Me
 
@@ -48,8 +45,18 @@ Driven by curiosity and innovation, I aim to solve real-world problems by combin
 ---
 
 ## 📈 GitHub Statistics
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=PhucHuwu&color=blue&style=flat-square" height="220" alt="Profile Views"  />
+</div>
 
-![Profile Views](https://komarev.com/ghpvc/?username=PhucHuwu&color=blue&style=flat-square)
+<div align="center">
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=PhucHuwu&theme=github-dark-blue&border_radius=4&date_format=j%2Fn%5B%2FY%5D&mode=weekly" alt="GitHub Streak" /></a>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PhucHuwu&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1&hide=contribs,issues" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PhucHuwu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
 ---
 
