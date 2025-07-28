@@ -9,19 +9,6 @@ Driven by curiosity and innovation, I aim to solve real-world problems by combin
 
 ---
 
-## 🔍 Research & Engineering Focus
-
-### 🔹 Core Areas
-- **Computer Vision**: Image segmentation, object detection, image captioning, medical image analysis
-- **Large Language Models (LLMs)**: Open-source models (LLaMA, Mistral), instruction tuning, prompt engineering
-- **Retrieval-Augmented Generation (RAG)**: Hybrid search, chunking, vector database (FAISS), semantic QA systems
-
-### 🔸 Supporting Research
-- **Automation Engineering**: Web scraping and interaction with **Selenium**, **Playwright**
-- **MLOps & Deployment**: Model serving, API design, data pipeline construction
-
----
-
 ## 🛠 Technical Skills
 
 - **Languages**: Python, JavaScript, C/C++
