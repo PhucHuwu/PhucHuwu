@@ -51,7 +51,7 @@ Driven by curiosity and innovation, I aim to solve real-world problems by combin
 
 - **📧 Email**: [phuctranhuu37@gmail.com](mailto:phuctranhuu37@gmail.com)  
 - **📞 Phone**: (+84) 368 334 223  
-- **🌐 LinkedIn**: [phuchuwu](https://www.linkedin.com/in/phuchuwu)  
+- **🌐 LinkedIn**: [in/phuchuwu](https://www.linkedin.com/in/phuchuwu)  
 - **📍 Location**: Hoang Liet, Hoang Mai, Hanoi, Vietnam  
 
 ---
