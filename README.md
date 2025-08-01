@@ -22,7 +22,7 @@ Driven by curiosity and innovation, I aim to solve real-world problems by combin
 
 **📚 Posts and Telecommunications Institute of Technology, Hanoi**  
 *Bachelor of Information Technology* | 2022 – Present  
-- **Direct Admission** with full scholarship (Top-tier entrant)
+- **Direct Admission** with full scholarship (Top-tier entrant)  
 - **Focus**: Information System
 
 **🏫 Thai Hoa High School**  
@@ -51,9 +51,9 @@ Driven by curiosity and innovation, I aim to solve real-world problems by combin
 
 - **📧 Email**: [phuctranhuu37@gmail.com](mailto:phuctranhuu37@gmail.com)  
 - **📞 Phone**: (+84) 368 334 223  
+- **🌐 LinkedIn**: [www.linkedin.com/in/phuchuwu](https://www.linkedin.com/in/phuchuwu)  
 - **📍 Location**: Hoang Liet, Hoang Mai, Hanoi, Vietnam  
 
 ---
 
 > *“Advancing AI through research, engineering, and real-world deployment — one model at a time.”*
-
