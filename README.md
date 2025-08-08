@@ -27,7 +27,7 @@ Driven by curiosity and innovation, I aim to solve real-world problems by combin
 
 **🏫 Thai Hoa High School**  
 *High School Diploma* | 2019 – 2022  
-- 🏆 **Third Prize**, National Science & Engineering Fair (ISEF Vietnam) – Embedded Systems, AI category
+- 🏆 **Third Prize**, International Science and Engineering Fair (ISEF Vietnam) – Embedded Systems, AI category
 
 ---
 
