@@ -93,6 +93,10 @@ _High School Diploma_ | 2019 – 2022
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PhucHuwu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=1000&theme=github_dark&hide_border=false&order=2" height="150" alt="languages graph" />
 </div>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Phuchuwu&hide_title=false&layout=compact&langs_count=20&theme=github_dark&hide_border=false" alt="wakatime graph" />
+</div>
+
 ---
 
 ## 📫 Contact Me
