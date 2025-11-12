@@ -66,7 +66,7 @@ Driven by curiosity and innovation, I aim to solve real-world problems by combin
 ## 🎓 Academic Background
 
 **📚 Posts and Telecommunications Institute of Technology, Hanoi**  
-_Bachelor of Information Technology_ | 2022 – Present
+_Engineer of Information Technology_ | 2022 – Present
 
 -   **Direct Admission** with full scholarship (Top-tier entrant)
 -   **Focus**: Information System
