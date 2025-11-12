@@ -94,7 +94,7 @@ _High School Diploma_ | 2019 – 2022
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Phuchuwu&hide_title=false&layout=compact&langs_count=20&theme=github_dark&hide_border=false" alt="wakatime graph" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=PhucHuwu&hide_title=false&layout=compact&langs_count=20&theme=github_dark&hide_border=false" alt="wakatime graph" />
 </div>
 
 ---
