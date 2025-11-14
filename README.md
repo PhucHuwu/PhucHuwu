@@ -82,6 +82,7 @@ _High School Diploma_ | 2019 – 2022
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=PhucHuwu&color=blue&style=flat-square" height="220" alt="Profile Views"  />
+  <a href="https://wakatime.com/@17186718-7dd5-4bca-b1e4-f5a55aad2fb7"><img src="https://wakatime.com/badge/user/17186718-7dd5-4bca-b1e4-f5a55aad2fb7.svg" alt="Total time coded since Nov 11 2025" /></a>
 </div>
 
 <div align="center">
