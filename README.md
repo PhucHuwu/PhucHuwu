@@ -86,11 +86,11 @@ _High School Diploma_ | 2019 – 2022
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=PhucHuwu&theme=github-dark-blue&border_radius=4&date_format=j%2Fn%5B%2FY%5D&mode=weekly&hide_border=true" height="200" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=PhucHuwu&theme=github-dark-blue&border_radius=4&date_format=j%2Fn%5B%2FY%5D&mode=weekly&hide_border=false" height="200" alt="GitHub Stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PhucHuwu&theme=github_dark&show_icons=true&hide_border=true&count_private=true" height="200" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PhucHuwu&theme=github_dark&show_icons=true&hide_border=false&count_private=true" height="200" alt="stats graph" />
 </div>
 
 <div align="center">
