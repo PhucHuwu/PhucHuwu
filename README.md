@@ -89,13 +89,14 @@ _High School Diploma_ | 2019 – 2022
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PhucHuwu&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1&hide=contribs,issues" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PhucHuwu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=1000&theme=github_dark&hide_border=false&order=2" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PhucHuwu&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1&hide=contribs,issues" height="200" alt="stats graph" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=PhucHuwu&hide_title=false&layout=compact&langs_count=20&theme=github_dark&hide_border=false" height="150" alt="wakatime graph" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=PhucHuwu&hide_title=false&layout=compact&langs_count=20&theme=github_dark&hide_border=false" height="200" alt="wakatime graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PhucHuwu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=1000&theme=github_dark&hide_border=false&order=2" height="200" alt="languages graph" />
 <div/>
+  
 ---
 
 ## 📫 Contact Me
