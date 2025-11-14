@@ -3,7 +3,7 @@
 
 ## 👨‍💻 About Me
 
-I’m a passionate AI researcher from Vietnam, currently pursuing a Bachelor's degree in Information Technology at the **Posts and Telecommunications Institute of Technology (PTIT)**. My primary research lies at the intersection of **Computer Vision**, **Large Language Models (LLMs)**, and **Retrieval-Augmented Generation (RAG)** systems.
+I’m a passionate AI researcher from Vietnam, currently pursuing an **Engineering Degree in Information Technology** at the **Posts and Telecommunications Institute of Technology (PTIT)**. My primary research lies at the intersection of **Computer Vision**, **Large Language Models (LLMs)**, and **Retrieval-Augmented Generation (RAG)** systems.
 
 Driven by curiosity and innovation, I aim to solve real-world problems by combining deep theoretical knowledge with hands-on experience in building intelligent systems. Beyond my core interests, I also explore **web automation** using tools like **Selenium** and **Playwright** for robust, real-time data interaction.
 
