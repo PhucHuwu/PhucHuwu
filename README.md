@@ -86,7 +86,6 @@ _High School Diploma_ | 2019 – 2022
 
 <div align="center">
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=PhucHuwu&theme=github-dark-blue&border_radius=4&date_format=j%2Fn%5B%2FY%5D&mode=weekly" height="200" alt="GitHub Streak" /></a>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=PhucHuwu&hide_title=false&layout=compact&langs_count=20&theme=github_dark&hide_border=false" height="195" alt="wakatime graph" />
 </div>
 
 <div align="center">
@@ -94,6 +93,9 @@ _High School Diploma_ | 2019 – 2022
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PhucHuwu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=1000&theme=github_dark&hide_border=false&order=2" height="150" alt="languages graph" />
 </div>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=PhucHuwu&hide_title=false&layout=compact&langs_count=20&theme=github_dark&hide_border=false" height="150" alt="wakatime graph" />
+<div/>
 ---
 
 ## 📫 Contact Me
