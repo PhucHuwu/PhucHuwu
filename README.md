@@ -81,7 +81,7 @@ _High School Diploma_ | 2019 – 2022
 ## 📈 GitHub Statistics
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=PhucHuwu&color=blue&style=flat-square" height="220" alt="Profile Views"  />
+  <img src="https://komarev.com/ghpvc/?username=PhucHuwu&color=blue&style=flat-square" height="220" alt="Profile Views" />
   <a href="https://wakatime.com/@17186718-7dd5-4bca-b1e4-f5a55aad2fb7"><img src="https://wakatime.com/badge/user/17186718-7dd5-4bca-b1e4-f5a55aad2fb7.svg" alt="Total time coded since Nov 11 2025" /></a>
 </div>
 
@@ -90,7 +90,7 @@ _High School Diploma_ | 2019 – 2022
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PhucHuwu&theme=github_dark&show_icons=true&hide_border=false&count_private=true" height="200" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PhucHuwu&theme=github_dark&show_icons=true&hide_border=false" height="200" alt="stats graph" />
 </div>
 
 <div align="center">
