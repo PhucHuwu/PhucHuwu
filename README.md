@@ -14,7 +14,7 @@ Driven by curiosity and innovation, I aim to solve real-world problems by combin
 ### **Programming Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-0B2343?style=for-the-badge&logo=javascript&logoColor=#7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-B2FCE4?style=for-the-badge&logo=c%2B%2B&logoColor=00599C)
 ![C](https://img.shields.io/badge/C-B2FCE4?style=for-the-badge&logo=c&logoColor=A8B9CC)
 
