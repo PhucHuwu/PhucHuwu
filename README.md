@@ -16,7 +16,7 @@ Driven by curiosity and innovation, I aim to solve real-world problems by combin
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-B2FCE4?style=for-the-badge&logo=c%2B%2B&logoColor=00599C)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### **Frontend Development**
@@ -31,7 +31,7 @@ Driven by curiosity and innovation, I aim to solve real-world problems by combin
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-3BABC3?style=for-the-badge&logo=flask&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 
@@ -39,9 +39,9 @@ Driven by curiosity and innovation, I aim to solve real-world problems by combin
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Transformers](https://img.shields.io/badge/Transformers-FF6F00?style=for-the-badge&logo=huggingface&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-1877F2?style=for-the-badge&logo=meta&logoColor=white)
 
 ### **Data Science & Visualization**
 
@@ -61,7 +61,7 @@ Driven by curiosity and innovation, I aim to solve real-world problems by combin
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MinIO](https://img.shields.io/badge/MinIO-C72E49?style=for-the-badge&logo=minio&logoColor=white)
-![Vector Search](https://img.shields.io/badge/Vector%20Search-4479A1?style=for-the-badge&logo=databricks&logoColor=white)
+![Vector Search](https://img.shields.io/badge/Vector%20Search-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
 
 ### **DevOps, Testing & Platforms**
 
@@ -70,19 +70,19 @@ Driven by curiosity and innovation, I aim to solve real-world problems by combin
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Docker Compose](https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-013243?style=for-the-badge&logo=huggingface&logoColor=FFD21E)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
 
 ### **AI Coding & Development Tools**
 
-![opencode](https://img.shields.io/badge/opencode-000000?style=for-the-badge&logo=opencode&logoColor=white)
+![opencode](https://img.shields.io/badge/opencode-111111?style=for-the-badge&logo=opencode&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
 ![Antigravity](https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![OpenRouter](https://img.shields.io/badge/OpenRouter-111111?style=for-the-badge&logo=openrouter&logoColor=white)
+![OpenRouter](https://img.shields.io/badge/OpenRouter-0F172A?style=for-the-badge&logo=openrouter&logoColor=white)
 
 ### **Web Automation & Testing**
 
-![Selenium](https://img.shields.io/badge/Selenium-B2FCE4?style=for-the-badge&logo=selenium&logoColor=43B02A)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 
 ---
