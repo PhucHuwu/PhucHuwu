@@ -3,71 +3,70 @@
 
 ## 👨‍💻 About Me
 
-I’m a passionate AI researcher from Vietnam, currently pursuing an **Engineering Degree in Information Technology** at the **Posts and Telecommunications Institute of Technology (PTIT)**. My primary research lies at the intersection of **Computer Vision**, **Large Language Models (LLMs)**, and **Retrieval-Augmented Generation (RAG)** systems.
+I’m a passionate AI researcher from Vietnam, currently pursuing an Engineering Degree in Information Technology at the **Posts and Telecommunications Institute of Technology (PTIT)**. My primary research lies at the intersection of **Computer Vision**, **Large Language Models (LLMs)**, and **Retrieval-Augmented Generation (RAG)** systems.
 
-Driven by curiosity and innovation, I aim to solve real-world problems by combining deep theoretical knowledge with hands-on experience in building intelligent systems. Beyond my core interests, I also explore **web automation** using tools like **Selenium** and **Playwright** for robust, real-time data interaction.
-
----
-
-## 🛠 Technical Skills
-
-### **Programming Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
-### **Full-stack Web Development**
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-
-### **AI, Machine Learning & Data**
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-1877F2?style=for-the-badge&logo=meta&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-
-### **Data, Storage & DevOps**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MinIO](https://img.shields.io/badge/MinIO-C72E49?style=for-the-badge&logo=minio&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
-
-### **AI Coding, Automation & Testing**
-
-![opencode](https://img.shields.io/badge/opencode-111111?style=for-the-badge&logo=opencode&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
-![Antigravity](https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![OpenRouter](https://img.shields.io/badge/OpenRouter-0F172A?style=for-the-badge&logo=openrouter&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+Driven by curiosity and innovation, I aim to solve real-world problems by combining deep theoretical knowledge with hands-on experience in building intelligent systems.
 
 ---
 
-## 🎓 Academic Background
+### Technical Skills
 
-**📚 Posts and Telecommunications Institute of Technology, Hanoi**  
+#### **Programming Languages**
+
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](#)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)](#)
+[![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)](#)
+
+#### **Full-stack Web Development**
+
+[![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)](#)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)](#)
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)](#)
+[![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white)](#)
+
+#### **AI, Machine Learning & Data**
+
+[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)](#)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)](#)
+[![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?logo=langchain&logoColor=white)](#)
+[![FAISS](https://img.shields.io/badge/FAISS-1877F2?logo=meta&logoColor=white)](#)
+[![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikit-learn&logoColor=white)](#)
+[![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white)](#)
+
+#### **Data, Storage & DevOps**
+
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)](#)
+[![MinIO](https://img.shields.io/badge/MinIO-C72E49?logo=minio&logoColor=white)](#)
+[![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)](#)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)](#)
+[![Anaconda](https://img.shields.io/badge/Anaconda-44A833?logo=anaconda&logoColor=white)](#)
+
+#### **AI Coding & Automation**
+
+[![OpenCode](https://img.shields.io/badge/OpenCode-000000?logo=opencode&logoColor=white)](#)
+[![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?logo=githubcopilot&logoColor=white)](#)
+[![Antigravity](https://img.shields.io/badge/Antigravity-4285F4?logo=google&logoColor=white)](#)
+[![OpenRouter](https://img.shields.io/badge/OpenRouter-0F172A?logo=openrouter&logoColor=white)](#)
+[![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white)](#)
+
+---
+
+## Academic Background
+
+**Posts and Telecommunications Institute of Technology, Hanoi**  
 _Engineer of Information Technology_ | 2022 – Present
 
 -   **Direct Admission** with full scholarship (Top-tier entrant)
 -   **Focus**: Information System
 
-**🏫 Thai Hoa High School**  
+**Thai Hoa High School**  
 _High School Diploma_ | 2019 – 2022
 
--   🏆 **Third Prize**, International Science and Engineering Fair (ISEF Vietnam) – Embedded Systems, AI category
+-   **Third Prize**, International Science and Engineering Fair (ISEF Vietnam) – Embedded Systems, AI category
 
 ---
 
-## 📈 GitHub Statistics
+## GitHub Statistics
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=PhucHuwu&color=blue&style=flat-square" height="220" alt="Profile Views" />
@@ -89,11 +88,11 @@ _High School Diploma_ | 2019 – 2022
 
 ---
 
-## 📫 Contact Me
+## Contact Me
 
--   **📧 Email**: [phuctranhuu37@gmail.com](mailto:phuctranhuu37@gmail.com)
--   **📞 Phone**: (+84) 368 334 223
--   **📍 Location**: Hoang Liet, Hoang Mai, Hanoi, Vietnam
+-   **Email**: [phuctranhuu37@gmail.com](mailto:phuctranhuu37@gmail.com)
+-   **Phone**: (+84) 368 334 223
+-   **Location**: Hoang Liet, Hoang Mai, Hanoi, Vietnam
 
 ---
 
