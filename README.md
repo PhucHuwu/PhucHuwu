@@ -94,7 +94,6 @@ _High School Diploma_ | 2019 – 2022
 
 -   **📧 Email**: [phuctranhuu37@gmail.com](mailto:phuctranhuu37@gmail.com)
 -   **📞 Phone**: (+84) 368 334 223
--   **🌐 LinkedIn**: [in/phuchuwu](https://www.linkedin.com/in/phuchuwu)
 -   **📍 Location**: Hoang Liet, Hoang Mai, Hanoi, Vietnam
 
 ---
