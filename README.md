@@ -93,7 +93,3 @@ _High School Diploma_ | 2019 – 2022
 -   **Email**: [phuctranhuu37@gmail.com](mailto:phuctranhuu37@gmail.com)
 -   **Phone**: (+84) 368 334 223
 -   **Location**: Hoang Liet, Hoang Mai, Hanoi, Vietnam
-
----
-
-> _“Advancing AI through research, engineering, and real-world deployment — one model at a time.”_
