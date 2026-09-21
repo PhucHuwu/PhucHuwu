@@ -74,16 +74,27 @@ _High School Diploma_ | 2019 – 2022
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=PhucHuwu&theme=github-dark-blue&border_radius=4&date_format=j%2Fn%5B%2FY%5D&mode=daily&hide_border=false" height="200" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PhucHuwu&theme=github_dark&show_icons=true&hide_border=false" height="200" alt="stats graph" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=PhucHuwu&hide_title=false&layout=compact&langs_count=10&theme=github_dark&hide_border=false" height="200" alt="wakatime graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PhucHuwu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=github_dark&hide_border=false" height="200" alt="languages graph" />
+  <table>
+    <tr>
+      <td valign="middle">
+        <img
+          src="https://ghstats.dev/api/card?username=phuchuwu&hide_border=true&width=500"
+          alt="GitHub Stats Card"
+        />
+      </td>
+      <td valign="middle">
+        <img
+          <img src="https://ghstats.dev/api/sparkline?username=phuchuwu&days=90&width=500&height=200&hide_border=true"
+          alt="Contribution Sparkline"
+        />
+        <br />
+        <img 
+          src="https://ghstats.dev/api/langs?username=phuchuwu&hide_border=true&hide_title=true&max_langs=12&layout=horizontal_list&width=500"
+          alt="Top Languages"
+        />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
