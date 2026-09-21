@@ -1,3 +1,34 @@
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=PhucHuwu&color=blue&style=flat-square" height="220" alt="Profile Views" />
+  <a href="https://wakatime.com/@17186718-7dd5-4bca-b1e4-f5a55aad2fb7"><img src="https://wakatime.com/badge/user/17186718-7dd5-4bca-b1e4-f5a55aad2fb7.svg" alt="Total time coded since Nov 11 2025" /></a>
+</div>
+
+<div align="center">
+  <table>
+    <tr>
+      <td valign="middle">
+        <img
+          src="https://ghstats.dev/api/card?username=phuchuwu&hide_border=true&width=500"
+          alt="GitHub Stats Card"
+        />
+      </td>
+      <td valign="middle">
+        <img
+          <img src="https://ghstats.dev/api/sparkline?username=phuchuwu&days=90&width=500&height=200&hide_border=true"
+          alt="Contribution Sparkline"
+        />
+        <br />
+        <img 
+          src="https://ghstats.dev/api/langs?username=phuchuwu&hide_border=true&hide_title=true&max_langs=12&layout=horizontal_list&width=500"
+          alt="Top Languages"
+        />
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
 <h3 align="center">Hi! My name's</h3>
 <h1 align="center">Phuc Huwu</h1>
 
@@ -63,39 +94,6 @@ _Engineer of Information Technology_ | 2022 – Present
 _High School Diploma_ | 2019 – 2022
 
 -   **Third Prize**, International Science and Engineering Fair (ISEF Vietnam) – Embedded Systems, AI category
-
----
-
-## GitHub Statistics
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=PhucHuwu&color=blue&style=flat-square" height="220" alt="Profile Views" />
-  <a href="https://wakatime.com/@17186718-7dd5-4bca-b1e4-f5a55aad2fb7"><img src="https://wakatime.com/badge/user/17186718-7dd5-4bca-b1e4-f5a55aad2fb7.svg" alt="Total time coded since Nov 11 2025" /></a>
-</div>
-
-<div align="center">
-  <table>
-    <tr>
-      <td valign="middle">
-        <img
-          src="https://ghstats.dev/api/card?username=phuchuwu&hide_border=true&width=500"
-          alt="GitHub Stats Card"
-        />
-      </td>
-      <td valign="middle">
-        <img
-          <img src="https://ghstats.dev/api/sparkline?username=phuchuwu&days=90&width=500&height=200&hide_border=true"
-          alt="Contribution Sparkline"
-        />
-        <br />
-        <img 
-          src="https://ghstats.dev/api/langs?username=phuchuwu&hide_border=true&hide_title=true&max_langs=12&layout=horizontal_list&width=500"
-          alt="Top Languages"
-        />
-      </td>
-    </tr>
-  </table>
-</div>
 
 ---
 
