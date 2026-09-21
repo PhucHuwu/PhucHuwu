@@ -1,3 +1,6 @@
+<h3 align="center">Hi! My name's</h3>
+<h1 align="center">Phuc Huwu</h1>
+
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=PhucHuwu&color=blue&style=flat-square" height="220" alt="Profile Views" />
   <a href="https://wakatime.com/@17186718-7dd5-4bca-b1e4-f5a55aad2fb7"><img src="https://wakatime.com/badge/user/17186718-7dd5-4bca-b1e4-f5a55aad2fb7.svg" alt="Total time coded since Nov 11 2025" /></a>
@@ -28,9 +31,6 @@
 </div>
 
 ---
-
-<h3 align="center">Hi! My name's</h3>
-<h1 align="center">Phuc Huwu</h1>
 
 ## 👨‍💻 About Me
 
