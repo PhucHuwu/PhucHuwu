@@ -75,7 +75,7 @@ Driven by curiosity and innovation, I aim to solve real-world problems by combin
 **AI Coding & Automation**
 
 [![OpenCode](https://img.shields.io/badge/OpenCode-000000?logo=opencode&logoColor=white)](#)
-[![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?logo=githubcopilot&logoColor=white)](#)
+[![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?logo=claude&logoColor=white)](#)
 [![Antigravity](https://img.shields.io/badge/Antigravity-4285F4?logo=google&logoColor=white)](#)
 [![OpenRouter](https://img.shields.io/badge/OpenRouter-0F172A?logo=openrouter&logoColor=white)](#)
 [![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white)](#)
